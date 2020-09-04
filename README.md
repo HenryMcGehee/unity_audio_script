@@ -1,4 +1,4 @@
 # unity_audio_script
 
 
-![Script Demo](https://imgur.com/eGkrE5L)
+![Script Demo](https://i.imgur.com/eGkrE5L.png)
